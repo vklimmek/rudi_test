@@ -1,1 +1,3 @@
 "file created on branch" 
+
+Added a new line to new_file_branch.txt.
