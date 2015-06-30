@@ -1,8 +1,4 @@
 "file created on branch" 
-
-Hello, what's going on?
-
-:w
-q
-:!wq
 Added a new line to new_file_branch.txt.
+
+And after that, I removed much stuff.
