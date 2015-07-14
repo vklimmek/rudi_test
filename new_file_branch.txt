@@ -2,3 +2,4 @@
 Added a new line to new_file_branch.txt.
 
 And after that, I removed much stuff.
+change on branch
